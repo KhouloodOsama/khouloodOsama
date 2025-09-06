@@ -5,7 +5,7 @@
 
 ### 🎓 Education
 - **Faculty of Computers & Informatics, Suez Canal University** (2020 – 2024)  
-  Major: **Computer Science** — Grade: **Excellent with Honor** 🏅  
+  Major: **Computer Science** — Grade: **Very Good** 🏅  
 
 ---
 
