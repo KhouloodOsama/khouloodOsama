@@ -27,8 +27,7 @@
 ---
 
 ### 🚀 Projects
-- **HealthCare+ (Graduation Project)**  
-  - 👩‍💻 Led a team of 7 developers.  
+- **HealthCare+ (Graduation Project)**    
   - 🛠️ Built backend using Node.js & Express with 15+ APIs.  
   - 🗄️ Designed 5+ database schemas using Mongoose.  
 
