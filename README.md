@@ -45,24 +45,6 @@
 - **File Uploader (Node.js, Express, Multer)**  
   - 📂 Handled 5GB storage with file size limits.  
 
----
-
-### 🏆 Achievements
-- 🥇 Ranked **64th** in the National Programming Contest (Day 9).  
-- 🥈 Ranked **67th/250 teams** in ICPCQ 2023.  
-
----
-
-### 🌍 Volunteer Experience
-- **ICPC SCU Community – Mentor** 👩‍🏫  
-  - Mentored 200+ students in algorithms & problem-solving.  
-
-- **Google Developer Student Clubs (EELU) – IT Instructor** 🚀  
-  - Delivered workshops & guided 200+ developers.  
-  - Published 3+ technical articles.  
-
-- **TROSC – IT Instructor** 📘  
-  - Published technical articles & supported 150+ members.  
 
 ---
 
